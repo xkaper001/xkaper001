@@ -38,6 +38,9 @@ A Tech Enthusiast
 
 <a href="https://github.com/imluckyayan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imluckyayan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### Progress
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649121fbdb7de05a7a6fce51?variant=dark&roadmaps=python%2Ccpp%2Ccyber-security%2Ccomputer-science)](https://roadmap.sh)
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/imluckyayan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
