@@ -30,7 +30,7 @@ A Tech Enthusiast
 
 ### Progress
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/649121fbdb7de05a7a6fce51?variant=dark&roadmaps=python%2Ccpp%2Ccyber-security%2Ccomputer-science)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649121fbdb7de05a7a6fce51?variant=dark&roadmaps=python%2Ccpp%2Ccyber-security%2Cflutter)](https://roadmap.sh)
 
 ### My GitHub Stats
 
