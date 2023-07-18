@@ -1,8 +1,9 @@
-Hi 👋 My name is Ayan
-=====================
+<div align = 'center'> 
+# Hi 👋 I'm Ayan
+# A Tech Enthusiast
+</div>
 
-A Tech Enthusiast
------------------
+
 # 💫 About Me:
 📍 I'm based in Delhi, India<br>🤝 I’m looking for help with "univy"<br>🌱 I’m currently learning Flutter<br>💬 Ask me about Python, <br>⚡ Fun fact: I'm a Webflow Developer ;)
 
@@ -61,20 +62,26 @@ A Tech Enthusiast
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
----
 [![](https://visitcount.itsvg.in/api?id=imluckyayan&icon=5&color=3)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/imluckyayan) 
+<div align="center">
+  <a href="https://open.spotify.com/user/0z5algiwd9uwxamk5sjbsjh3c">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+
+###
 
 ### Progress
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649121fbdb7de05a7a6fce51?variant=dark&roadmaps=python%2Ccpp%2Ccyber-security%2Cflutter)](https://roadmap.sh)
 
-### My GitHub Stats
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/imluckyayan) 
 
-<a href="http://www.github.com/imluckyayan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imluckyayan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+###
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/imluckyayan"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/imluckyayan/count.svg?"  />
+</div>
