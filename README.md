@@ -55,7 +55,6 @@
 </div>
 
 ### Progress
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649121fbdb7de05a7a6fce51?variant=dark&roadmaps=python%2Ccpp%2Ccyber-security%2Cflutter)](https://roadmap.sh)
-
+<img src = 'https://api.roadmap.sh/v1-badge/tall/649121fbdb7de05a7a6fce51?variant=dark&roadmaps=cyber-security%2Ccomputer-science%2Cflutter%2Cpython'>
 ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/imluckyayan) 
