@@ -48,10 +48,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xkaper-ayan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imluckyayan&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=xkaper-ayan&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/imluckyayan/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/xkaper-ayan/count.svg?"  />
 </div>
 
 ### Progress
