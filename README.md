@@ -50,11 +50,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=xkaper-ayan&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
+### Progress
+<img src = 'https://api.roadmap.sh/v1-badge/tall/649121fbdb7de05a7a6fce51?variant=dark&roadmaps=cyber-security%2Ccomputer-science%2Cflutter%2Cpython'> <br>
+## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/imluckyayan) 
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/xkaper-ayan/count.svg?"  />
 </div>
-
-### Progress
-<img src = 'https://api.roadmap.sh/v1-badge/tall/649121fbdb7de05a7a6fce51?variant=dark&roadmaps=cyber-security%2Ccomputer-science%2Cflutter%2Cpython'>
-## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/imluckyayan) 
