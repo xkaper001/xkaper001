@@ -44,12 +44,12 @@
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xkaper-ayan&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xkaper-ayan&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xkaper-ayan&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=xkaper001&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xkaper001&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xkaper001&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xkaper-ayan&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=xkaper001&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
 ### Progress
 <img src = 'https://api.roadmap.sh/v1-badge/tall/649121fbdb7de05a7a6fce51?variant=dark&roadmaps=cyber-security%2Ccomputer-science%2Cflutter%2Cpython'> <br>
@@ -57,5 +57,5 @@
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/imluckyayan) 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/xkaper-ayan/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/xkaper001/count.svg?"  />
 </div>
