@@ -5,7 +5,7 @@
 
 
 ## 💫 About Me:
-📍 I'm based in Delhi, India<br>🤝 I’m looking for help with CTFs<br>🌱 I’m currently learning Flutter<br>💬 Ask me about Python, <br>⚡ Fun fact: I'm develop beautiful websites ;)
+📍 I'm based in Delhi, India<br>🤝 I’m looking for help with CTFs<br>🌱 I’m currently learning Flutter<br>💬 Ask me about Python, <br>⚡ Fun fact: I develop beautiful websites ;)
 
 
 ## 🌐 Socials:
