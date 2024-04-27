@@ -1,12 +1,16 @@
-<img align="right" width="250" src="https://media.tenor.com/FJ1GSipo46EAAAAC/stranger-by-the-shore-shun-hashimoto.gif"  />
+
 <h1>Hi 👋 I'm Ayan</h1>
 <h2>A Tech Enthusiast</h2>
 
 
 
 ## 💫 About Me:
+<img align="right" width="250" src="https://media.tenor.com/FJ1GSipo46EAAAAC/stranger-by-the-shore-shun-hashimoto.gif"  />
 📍 I'm based in Delhi, India<br>🤝 I’m looking for help with CTFs<br>🌱 I’m currently learning Flutter<br>💬 Ask me about Python, <br>⚡ Fun fact: I develop beautiful websites ;) like [this one](https://xkaper.webflow.io) <br>🃏 I use Arch, BTW 
 
+## My Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,py,docker,firebase,appwrite,supabase,mysql,git,arch,bash,linux,figma,webflow&perline=8)](https://xkaper.webflow.io)
 
 ## 🌐 Socials:
 
@@ -38,10 +42,6 @@
   </a>
 </div>
 <br clear="both">
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/xkaper001/count.svg?"  />
