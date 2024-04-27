@@ -43,6 +43,8 @@
 </div>
 <br clear="both">
 
+![Snake animation](https://github.com/xkaper001/xkaper001/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/xkaper001/count.svg?"  />
 </div>
