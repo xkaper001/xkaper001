@@ -1,7 +1,6 @@
 <p align=center>
-<!--   <a href="https://ibb.co/7SDH2Zn"><img src="https://i.ibb.co/sg4hyNK/Hi-I-m-Ayan-5.png" height=150 alt="Hi-I-m-Ayan-5" border="0"></a> -->
-  <a href="https://ibb.co/j45MSF3"><img src="https://i.ibb.co/3hsNnHS/Hi-I-m-Ayan.png" height=200 alt="Hi-I-m-Ayan" border="0"></a>
-  <a href="https://ibb.co/Vqgsv65"><img src="https://i.ibb.co/Vqgsv65/Hi-I-m-Ayan.png" alt="Hi-I-m-Ayan" border="0"></a>
+  <img src="https://i.ibb.co/3hsNnHS/Hi-I-m-Ayan.png" height=200 alt="Hi-I-m-Ayan" border="0">
+  <img src="https://ibb.co/Vqgsv65" alt="Hi-I-m-Ayan" border="0">
 </p>
 <p align=center>aka</p>
 <p align=center>
