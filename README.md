@@ -8,13 +8,12 @@
   <a href="https://ibb.co/rmTFQx6"><img src="https://i.ibb.co/R9ZYg30/Background.png" height=90 alt="Background" border="0"></a>
 </p>
 
+<br>
 
-## 💫 About Me:
-<img align="right" width="250" src="https://media.tenor.com/FJ1GSipo46EAAAAC/stranger-by-the-shore-shun-hashimoto.gif"  />
-📍 I'm based in Delhi, India<br>🤝 I’m looking for help with CTFs<br>🌱 I’m currently learning Flutter<br>💬 Ask me about Python, <br>⚡ Fun fact: I develop beautiful websites ;) like [this one](https://xkaper.webflow.io) <br>🃏 I use Arch, BTW 
+<img align="right" width="350" src="https://media1.tenor.com/m/4I46642wy2oAAAAC/anime-typing.gif">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=1000&color=FFFFFF&vCenter=true&random=false&width=435&separator=%3C&lines=I'm+a+Flutter+Dev%3CI'm+an+Undergrad%3CI+use+Arch+btw+;)%3Calso+a+Webflow+Dev%3CBased+in+Delhi%3CI+participate+in+CTFs%3CSee+my+skills+below" alt="Typing SVG" /></a>
 
-## My Skills:
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=10000&color=F7F7F7&vCenter=true&random=false&width=435&lines=These+are+my+skills+" alt="Typing SVG" /></a>
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,py,docker,firebase,appwrite,supabase,mysql,git,arch,bash,linux,figma,webflow&perline=8)](https://xkaper.webflow.io)
 
 ## 🌐 Socials:
