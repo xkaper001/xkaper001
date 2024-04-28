@@ -10,7 +10,10 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,py,docker,firebase,appwrite,supabase,mysql,git,arch,bash,linux,figma,webflow&perline=8)](https://xkaper.webflow.io)
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=30000&color=6403F7&vCenter=true&random=false&width=435&lines=Checkout+my+socials" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=30000&color=6403F7&vCenter=true&random=false&width=435&lines=Checkout+my+socials" alt="Typing SVG" /></a><br>
+[![My Skills](https://skillicons.dev/icons?i=instagram&perline=1)](https://xkaper.webflow.io)
+[![My Skills](https://skillicons.dev/icons?i=instagram&perline=1)](https://google.com)
+[![My Skills](https://skillicons.dev/icons?i=instagram&perline=1)](https://yahoo.com)
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/xkaper001/xkaper001/output/snake.svg" alt="Snake animation" />
