@@ -47,8 +47,9 @@
   </a>
 </div>
 <br clear="both">
+<img src="https://raw.githubusercontent.com/xkaper001/xkaper001/output/snake.svg" alt="Snake animation" />
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0z5algiwd9uwxamk5sjbsjh3c&unique={true|1|on|yes})
+###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/xkaper001/count.svg?"  />
