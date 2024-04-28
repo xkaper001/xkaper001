@@ -1,6 +1,7 @@
 
-<h1>Hi 👋 I'm Ayan</h1>
+<h1> <span>Hi 👋 I'm Ayan</h1>
 <h2>A Tech Enthusiast</h2>
+<span style="font-family: 'Jersey 15';">I'm Ayan</span>
 
 
 
@@ -43,9 +44,7 @@
 </div>
 <br clear="both">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
-
-![Snake animation](https://github.com/xkaper001/xkaper001/blob/output/github-contribution-grid-snake.svg)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0z5algiwd9uwxamk5sjbsjh3c&unique={true|1|on|yes})
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/xkaper001/count.svg?"  />
