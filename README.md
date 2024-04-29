@@ -5,8 +5,9 @@
 <br>
 
 <img align="right" width="500" src="https://media1.tenor.com/m/4I46642wy2oAAAAC/anime-typing.gif">
+    
+<img style="width: 50%;float: right;" src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=30000&color=6403F7&vCenter=true&random=false&width=435&lines=These+are+my+skills+" alt="Typing SVG" class="half-screen"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=30000&color=6403F7&vCenter=true&random=false&width=435&lines=These+are+my+skills+" alt="Typing SVG" /></a>
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,py,docker,firebase,appwrite,supabase,mysql,git,arch,bash,linux,figma,webflow&perline=8)](https://xkaper.webflow.io)
 
 
