@@ -11,7 +11,7 @@
   
 <img style="width: 50%;float: right;" src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=30000&color=6403F7&Center=true&&vCenter=true&random=false&width=435&lines=These+are+my+skills+" alt="Typing SVG" class="half-screen"/>
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,html,css,js,py,c,cpp,docker,mongodb,firebase,appwrite,supabase,mysql,git,figma,cloudflare,arch,bash,linux,raspberrypi&perline=6)](https://xkaper.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,flutter,dart,python,c,cpp,go,nodejs,nextjs,git,docker,bash,linux,arch,raspberrypi,mysql,mongodb,firebase,appwrite,supabase,cloudflare,figma&perline=6)](https://xkaper.dev)
   
 </p>
 </p>
