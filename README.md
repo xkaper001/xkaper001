@@ -23,8 +23,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/xkaper001/count.svg?"  />
-</div>
+<p align="center">
+  <img src="https://giews.fra.appwrite.run/xkaper001/terminal" alt="Views"/>
+</p>
 
 
